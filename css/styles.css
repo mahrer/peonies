@@ -90,6 +90,7 @@ a:hover {
 @media (max-width: 768px) {
    .container {
         max-width: 750px;
+        padding-left: 10px;
    }
      header {
         background-image: url(../img/peonies2.jpg); 
