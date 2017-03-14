@@ -8,6 +8,9 @@ h1, h2 {
    font-weight: 300;
 }
 
+.contact {
+    font-size: 150%;
+}
 
 .container {
     margin-left: auto;
